@@ -1,0 +1,5 @@
+If songs.db contains the top 100 songs of one listener from 2018, how would you characterize their audio aura?
+The listene's music taste appears to be high in each of the 3 categories meaning that they are looking for upbeat music that creates a postive attitude and possibly encourages them to move.
+
+Hypothesize about why the way you’ve calculated this aura might not be very representative of the listener. What better ways of calculating this aura would you propose?
+Although this is a good way to calculate the aura, it doesn't take into account other years of listening and other songs outside of the top 100. This makes the aura a bit biased in the way that it is calculated. Perhaps the aura should calculate how someones music taste has changed over time rather than the summary of a single year.
